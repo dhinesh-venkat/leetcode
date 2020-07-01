@@ -12,4 +12,5 @@ def Contains_duplicate(nums):
 #nums = [1,2,3,4]
 nums = [1,2,3,1]
 #nums = []
+
 print(Contains_duplicate(nums))
