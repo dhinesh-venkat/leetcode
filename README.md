@@ -1,5 +1,1 @@
-# leetcode
-
-git add .
-git commit -m "filename"
-git push origin master
+My solutions to leetcode problems
